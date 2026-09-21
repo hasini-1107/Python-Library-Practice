@@ -6,15 +6,8 @@ This repository contains my practice with Python Libraries used in Data Science 
 - Matplotlib
 - Seaborn
 ## Progress
-### NumPy
-- Array Creation
-- Dimensions and shapes
-- Indexing and Slicing
-- Arithmetic operations
-- Broadcasting
-- Aggregate functions
-- Filtering
-- Random numbers
-- Multidimensional arrays and axis
+### NumPy Basics
+### Pandas Basics
+
 
 This repository documents my learning and practice as I build my python skills.
